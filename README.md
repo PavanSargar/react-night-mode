@@ -1,2 +1,2 @@
 # react-night-mode
-Created with CodeSandbox
+Basic night mode tutorial using ReactJS
